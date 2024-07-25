@@ -10,8 +10,6 @@ class MasterCopy extends StatefulWidget {
 class _MasterCopyState extends State<MasterCopy> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Icon(Icons.add),
-    );
+    return const Placeholder();
   }
 }
