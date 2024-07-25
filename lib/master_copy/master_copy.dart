@@ -11,7 +11,7 @@ class _MasterCopyState extends State<MasterCopy> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: Text('I am junior'),
+      body: Text('I am junior'),  
     );
   }
 }
