@@ -10,6 +10,8 @@ class MasterCopy extends StatefulWidget {
 class _MasterCopyState extends State<MasterCopy> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Scaffold(
+      body: Text('I am junior'),
+    );
   }
 }
